@@ -43,9 +43,9 @@ As a point of interest: this result is specific to theatre – other types of pr
 
 [Outcomes Based on Goals](/resources/Outcomes_vs_Goals.png)
 
-There is a Talmudic adage: If you have grabbed for a lot, you haven’t grabbed. This seems to be borne out by the Kickstarter data pertaining to plays. We see the highest success rate in small projects, under $5000. 
+There is a Talmudic adage: If you have grabbed hold of too much, you haven’t grabbed it. This seems to be borne out by the Kickstarter data pertaining to plays. We see the highest success rate in small projects, under $5000. 
 
-Just looking at success percentages, there is a pleasant spike for projects between $35,000 and $50,000, but the total numbers of projects at that level is small, more in the range of anecdotes than data 
+Just looking at success percentages, there is a pleasant spike for projects between $35,000 and $50,000, but the total numbers of projects at that level is small, more in the range of anecdote than data 
 
 
 - What are some limitations of this dataset?
