@@ -16,9 +16,14 @@ Challenges included the variety of projects in the dataset. The analysis present
 
 ### Analysis of Outcomes Based on Launch Date
 
+
+[Outcomes Based on Launch Date]( /resources/Theater_Outcomes_vs_Launch.png)
+
 For this analysis, we looked at theatre projects (parent category) with the launch dates grouped by calendar month – this grouping showed the clearest pattern, leading to the observations in the “results” section below. Note that the spreadsheet tab “Outcome Based on Launch Date” allows the user to look at other parent categories by using the drop down list in cell B2; however, the Theater observations had a distinct pattern most likely to be relevant to this project.
 
 ### Analysis of Outcomes Based on Goals
+
+[Outcomes Based on Goals](/resources/Outcomes_vs_Goals.png)
 
 We grouped projects into buckets based on goal ranges, and calculated the percentage in each project that were successful, failed, or canceled. We are presenting results for the “plays” subcategory, but the user can extend this to any subcategory using the drop-down menu on cell L3.
 
