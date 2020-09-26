@@ -40,6 +40,7 @@ As a point of interest: this result is specific to theatre – other types of pr
 
 
 - What can you conclude about the Outcomes based on Goals?
+
 [Outcomes Based on Goals](/resources/Outcomes_vs_Goals.png)
 
 There is a Talmudic adage: If you have grabbed for a lot, you haven’t grabbed. This seems to be borne out by the Kickstarter data pertaining to plays. We see the highest success rate in small projects, under $5000. 
